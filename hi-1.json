@@ -1,0 +1,66 @@
+{
+    "users_v": [
+        {
+            "userId": 1,
+            "pass": 111
+        },
+        {
+            "userId": 2,
+            "pass": 222
+        },
+        {
+            "userId": 3,
+            "pass": 333
+        },
+        {
+            "userId": 4,
+            "pass": 444
+        },
+        {
+            "userId": 5,
+            "pass": 555
+        },
+        {
+            "userId": 6,
+            "pass": 666
+        },
+        {
+            "userId": 9,
+            "pass": 999
+        },
+        {
+            "userId": 10,
+            "pass": 101010
+        },
+        {
+            "userId": 11,
+            "pass": 111111
+        },
+        {
+            "userId": 9,
+            "pass": 999
+        },
+        {
+            "userId": 44,
+            "pass": 444444
+        },
+        {
+            "userId": 12,
+            "pass": 121212
+        }
+    ],
+    "boss_v": [
+        {
+            "userId": "Boss_1",
+            "pass": "Password_1"
+        },
+        {
+            "userId": "Boss_2",
+            "pass": "Password_2"
+        },
+        {
+            "userId": "Boss_3",
+            "pass": "Password_3"
+        }
+    ]
+}

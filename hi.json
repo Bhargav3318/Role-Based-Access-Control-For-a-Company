@@ -1,0 +1,88 @@
+{
+    "users": [
+        {
+            "userId": 1,
+            "firstName": "Krish",
+            "lastName": "Lee",
+            "phoneNumber": "123456",
+            "emailAddress": "krish.lee@learningcontainer.com"
+        },
+        {
+            "userId": 2,
+            "firstName": "racks",
+            "lastName": "jacson",
+            "phoneNumber": "123456",
+            "emailAddress": "racks.jacson@learningcontainer.com"
+        },
+        {
+            "userId": 3,
+            "firstName": "denial",
+            "lastName": "roast",
+            "phoneNumber": "33333333",
+            "emailAddress": "denial.roast@learningcontainer.com"
+        },
+        {
+            "userId": 4,
+            "firstName": "devid",
+            "lastName": "neo",
+            "phoneNumber": "222222222",
+            "emailAddress": "devid.neo@learningcontainer.com"
+        },
+        {
+            "userId": 5,
+            "firstName": "jone",
+            "lastName": "mac",
+            "phoneNumber": "111111111",
+            "emailAddress": "jone.mac@learningcontainer.com"
+        },
+        {
+            "userId": 6,
+            "firstName": "Bhargav",
+            "lastName": "B",
+            "phoneNumber": "9000000",
+            "emailAddress": "BBB@gmail.com"
+        },
+        {
+            "userId": 9,
+            "firstName": "Doja",
+            "lastName": "cat",
+            "phoneNumber": "22222222",
+            "emailAddress": "doja@cat.com"
+        },
+        {
+            "userId": 10,
+            "firstName": "Hello",
+            "lastName": "Bye",
+            "phoneNumber": "9969",
+            "emailAddress": "HI@gmail.Com"
+        },
+        {
+            "userId": 11,
+            "firstName": "hi",
+            "lastName": "olol",
+            "phoneNumber": "8888",
+            "emailAddress": "hiolol@gmail.com"
+        },
+        {
+            "userId": 9,
+            "firstName": "999",
+            "lastName": "pol",
+            "phoneNumber": "9999",
+            "emailAddress": "999@gmail.com"
+        },
+        {
+            "userId": 44,
+            "firstName": "Pojitha",
+            "lastName": "I",
+            "phoneNumber": "00000",
+            "emailAddress": "p@gmail.com"
+        },
+        {
+            "userId": 12,
+            "firstName": "sita",
+            "lastName": "m",
+            "phoneNumber": "888888888",
+            "emailAddress": "s@gmail.com"
+        }
+    ]
+}
